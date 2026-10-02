@@ -10,8 +10,8 @@ import random
 from seleniumbase import SB
 
 # 从环境变量获取账号密码和 TG 配置
-EMAIL        = os.environ.get("LUNES_EMAIL") or ""     # 登录邮箱（账号1）
-PASSWORD     = os.environ.get("LUNES_PASSWORD") or ""  # 登录密码（账号1）
+EMAIL        = os.environ.get("vrboxing@gmail.com") or ""     # 登录邮箱（账号1）
+PASSWORD     = os.environ.get("228GnBs@KqnsV5z") or ""  # 登录密码（账号1）
 TG_CHAT_ID   = os.environ.get("TG_CHAT_ID") or ""      # chat id,可选
 TG_BOT_TOKEN = os.environ.get("TG_BOT_TOKEN") or ""    # bot token,可选
 
